@@ -4,7 +4,7 @@
 # MAGIC 
 # MAGIC Some text
 # MAGIC 
-# MAGIC And even more text...
+# MAGIC And even more text2
 
 # COMMAND ----------
 
