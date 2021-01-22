@@ -3,6 +3,8 @@
 # MAGIC # Markdown cell
 # MAGIC 
 # MAGIC Some text
+# MAGIC 
+# MAGIC *Some more text*
 
 # COMMAND ----------
 
