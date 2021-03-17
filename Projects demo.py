@@ -9,7 +9,7 @@
 # COMMAND ----------
 
 # Python code
-print('Hello world!')
+print('Hello projects!')
 
 # COMMAND ----------
 
